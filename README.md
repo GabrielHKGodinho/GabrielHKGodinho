@@ -7,4 +7,4 @@ systems, currently transitioning into Go and distributed systems.
 🌱 Learning: Go, concurrent systems, distributed architecture
 💼 Background: ERP systems, relational databases, Apple Developer Academy
 
-📫 [[LinkedIn]](https://www.linkedin.com/in/gabriel-hk-godinho) ·[[E-mail]] (gabrielhkgodinho@gmail.com)
+📫 [[LinkedIn]](https://www.linkedin.com/in/gabriel-hk-godinho) ·[[E-mail]](gabrielhkgodinho@gmail.com)
